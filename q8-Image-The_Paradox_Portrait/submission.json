@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal outdoor scene at low sun angle showing a row of identical vertical poles standing across a flat open ground. Each pole casts a shadow, but the shadows vary dramatically in length: most are short and clustered closely together, while one shadow stretches far across the ground, much longer than the others. A solitary human silhouette stands quietly within the longest shadow, while the shorter shadows remain empty. The scene feels calm and slightly unsettling, with strong directional sunlight creating sharp contrasts and long perspective lines. Composition emphasizes the overwhelming length of the single extended shadow. Muted earth tones and soft atmospheric haze create a quiet, contemplative mood. Minimalist realism, cinematic lighting, geometric clarity.",
+  "model": "gemini-2.5-flash-image",
+  "paradox": "Inspection Paradox",
+  "visual_logic": "Most intervals are short but one is extremely long, and the observer is always positioned within the longest interval.",
+  "publish_email": true
+}
