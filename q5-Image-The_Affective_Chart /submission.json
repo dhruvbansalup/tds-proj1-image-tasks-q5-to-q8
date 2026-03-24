@@ -1,0 +1,8 @@
+{
+  "prompt": "A symbolic winter scene showing a large modern city skyline tightly wrapped inside a massive wool sweater. The sweater is thick, heavy, and textured, pressing down on the buildings as if suffocating them. Wisps of grey smog leak slowly through the knitted fibers of the fabric.\nThe environment is cold and dim, with pale winter light and a hazy sky. The atmosphere feels heavy, still, and oppressive, suggesting difficulty breathing. No people are visible. The focus is entirely on the relationship between winter clothing and trapped air.\nCinematic composition, magazine cover quality, realistic lighting, dramatic shadows, emotional visual storytelling, high detail, subtle symbolism, minimalist background, single frame.\nConstraints:\n* single scene only\n* no text\n* no numbers\n* no charts\n* no labels\n* no legends\n* no infographic elements\n* no multi-panel layout\nNegative prompts: factory smokestacks, industrial chimneys, globe earth, thermometer, bar chart, line chart, pie chart, infographic, data visualization style, cartoon, clipart, futuristic sci-fi city, neon colors, fantasy elements, obvious pollution symbols",
+  "model": "Gemini 3.1 (w/ Nano Banana 2)",
+  "dataset_name": "IGI Airport T3 IMD AQI Data 2017-2023",
+  "dataset_url": "https://data.opencity.in/dataset/0dc7b9fe-9fd4-46ee-a37e-88f0bd6f6362/resource/78584849-783d-4def-b260-cb07e7d1fc57/download/679bab2f-866c-490c-a2c3-49972b268135.csv",
+  "insight": "one sentence: Air pollution spikes dramatically during winter months.",
+  "publish_email": true
+}
